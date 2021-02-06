@@ -22,7 +22,7 @@ wow.init();
 
 jQuery(document).ready(function( $ ) {
         $('.circle').circleProgress({
-        value: 0.70,
+        value: 0.95,
         startAngle: 4.75,
         size: 200,
         fill: { gradient: ["#FFFFFF"] }
